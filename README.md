@@ -267,23 +267,6 @@ Because the evidence suggests that:
    - service insights and findings
 4. Use the workbook to understand the evidence behind the proposed AI-assisted redesign.
 
----
-
-## Suggested GitHub Enhancements
-
-To make this repository stronger, you can also add:
-
-- a PDF copy of your final report
-- screenshots of the main charts/dashboard pages
-- your SIMUL8 model file (`.S8`) if allowed
-- a short presentation deck or executive summary
-
-Recommended filenames:
-
-- `Harbour_Insurance_Business_Analysis_Report.pdf`
-- `Harbour_AI_Assisted_Model.s8`
-- `images/sentiment-analysis.png`
-- `images/channel-performance.png`
 
 ---
 
