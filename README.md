@@ -242,10 +242,8 @@ Because the evidence suggests that:
 .
 ├── AI-Assisted Call Centre Optimisation & Service Analytics.xlsx
 ├── README.md
-└── images/                      # optional: charts/screenshots for GitHub preview
+└── images/                      
 ```
-
-If you add report visuals to GitHub, place them in an `images/` folder and embed them here for a richer project page.
 
 ---
 
@@ -315,7 +313,7 @@ Potential extensions for this project include:
 
 ## Academic Context
 
-This project was completed as part of the **MANP001 Assignment Case Study (Autumn 2025)** on service modernisation and AI-assisted call-centre design.
+This project was completed as part of the **MANP001 Assignment Case Study (Autumn 2025)**, focusing on service modernisation and AI-assisted call-centre design within my MSc in Data Science for Business.
 
 > Note: Harbour Insurance Company is used here as part of an academic case study analysis.
 
