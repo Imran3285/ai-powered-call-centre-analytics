@@ -1,0 +1,500 @@
+﻿CustomerID,customer_name,sentiment,csat_score,call_week,date,time,call_day,Timetoanswer,Call/Contact Duration,reason,channel,call_center
+WHF-74039030-o-820545-JB,Wright Linebarger,Very Positive,9,0,01/05/2025,08:04:43,1,17,1028,Billing Question,Call-Center,Edinburgh
+HJX-08360257-Y-908575-MR,Austin Daughton,Negative,,0,01/05/2025,08:08:55,1,4762,38518,Service Outage,Email,Edinburgh
+PXG-78036971-R-181200-BD,Madella Cornbell,Very Negative,,0,01/05/2025,08:11:59,1,2371,9995,Billing Question,Web,Edinburgh
+KCQ-35740187-v-103287-q9,Antoine Pentycross,Very Positive,,0,01/05/2025,08:18:24,1,19,1243,Payments,Call-Center,Edinburgh
+NRJ-04312097-X-157184-5A,Melba Elener,Neutral,,0,01/05/2025,08:22:27,1,20,1205,Billing Question,Call-Center,Edinburgh
+LPI-64856481-D-986452-9d,Ginger Harriagn,Neutral,8,0,01/05/2025,08:23:49,1,2380,18262,Billing Question,Web,Edinburgh
+GOM-95929333-R-456416-0e,Vaughn Beamond,Negative,5,0,01/05/2025,08:34:08,1,4882,43550,Service Outage,Email,Edinburgh
+LQU-08131898-0-913620-D3,Alonzo Goggin,Very Negative,4,0,01/05/2025,08:36:10,1,2310,13107,Billing Question,Web,Edinburgh
+DLV-62739711-F-401989-c6,Gustie Devaney,Neutral,,0,01/05/2025,08:37:26,1,19,479,Billing Question,Chatbot,Edinburgh
+AAP-56121141-e-659041-kE,Tabb Rabbage,Neutral,7,0,01/05/2025,08:41:53,1,5089,44111,Billing Question,Email,Edinburgh
+BWZ-23513501-O-627660-5x,Den McMurthy,Negative,,0,01/05/2025,08:43:29,1,2435,8327,Billing Question,Web,Edinburgh
+CIK-49732018-S-362179-fT,Jyoti Ramel,Neutral,,0,01/05/2025,08:45:01,1,4860,47126,Billing Question,Email,Edinburgh
+YID-96520062-x-220775-mT,Paddy Dole,Neutral,,0,01/05/2025,08:48:06,1,12,440,Billing Question,Chatbot,Edinburgh
+KVT-90174138-s-196612-ME,Sergio Henrique,Negative,6,0,01/05/2025,08:48:53,1,2408,13828,Billing Question,Web,Edinburgh
+HIL-99156573-1-819677-Ev,Kermit Habberjam,Negative,6,0,01/05/2025,08:49:24,1,10,560,Billing Question,Chatbot,Edinburgh
+TXS-75495634-L-260504-SP,Alana Mulgrew,Negative,,0,01/05/2025,08:53:03,1,2437,18224,Billing Question,Web,Edinburgh
+ZXY-07432902-F-991658-xm,Korey Kindleside,Very Positive,,0,01/05/2025,08:57:53,1,20,1323,Billing Question,Call-Center,Edinburgh
+WOF-83259800-L-335734-VH,Adrian Henfre,Neutral,,0,01/05/2025,09:03:21,1,5489,47923,Service Outage,Email,Edinburgh
+PZI-77635439-s-338949-2Z,Janella Wolfit,Neutral,,0,01/05/2025,09:04:05,1,16,516,Service Outage,Chatbot,Edinburgh
+LWR-87723197-r-407177-cc,Margie Andrelli,Positive,,0,01/05/2025,09:06:26,1,5042,46794,Service Outage,Email,Edinburgh
+FYC-63913078-N-452324-eV,Glynnis Olivetta,Neutral,,0,01/05/2025,09:06:58,1,2406,4970,Billing Question,Web,Edinburgh
+KIH-11337926-H-627154-G7,Sherwin Giacomucci,Positive,,0,01/05/2025,09:09:04,1,15,469,Billing Question,Chatbot,Edinburgh
+VZY-81439159-Z-659861-NT,Shirline Prescote,Neutral,,0,01/05/2025,09:11:20,1,12,494,Service Outage,Chatbot,Edinburgh
+ZJJ-15711872-P-566364-Co,Nadine Nobbs,Negative,,0,01/05/2025,09:12:36,1,17,1310,Payments,Call-Center,Edinburgh
+MMQ-90898132-S-164216-g3,Marylinda Dolton,Positive,,0,01/05/2025,09:12:38,1,4929,46413,Billing Question,Email,Edinburgh
+PAU-44789028-L-164889-u6,Euell Ormston,Neutral,,0,01/05/2025,09:13:55,1,17,1337,Billing Question,Call-Center,Edinburgh
+DZK-96460749-d-640610-8O,Obadias Whelband,Neutral,5,0,01/05/2025,09:18:44,1,19,1740,Payments,Call-Center,Edinburgh
+GZE-78765452-D-284024-4o,Merla Greatbank,Positive,,0,01/05/2025,09:20:19,1,4132,48596,Billing Question,Email,Edinburgh
+MCM-03868084-I-643697-HA,Laurene Burchett,Negative,,0,01/05/2025,09:22:36,1,4989,43347,Billing Question,Email,Edinburgh
+BBS-20268358-L-677965-jh,Karel Atwool,Positive,,0,01/05/2025,09:23:20,1,5650,46732,Billing Question,Email,Edinburgh
+NHP-03850836-9-111671-69,Willy Burtonshaw,Very Positive,,0,01/05/2025,09:28:16,1,11,429,Billing Question,Chatbot,Edinburgh
+SEB-08609350-w-963413-V6,Randee Casino,Negative,5,0,01/05/2025,09:32:40,1,5020,42245,Service Outage,Email,Edinburgh
+QYO-55865790-R-462971-Zv,Brinna Snibson,Neutral,,0,01/05/2025,09:39:45,1,16,1495,Payments,Call-Center,Edinburgh
+VIV-27148257-O-130381-fG,Iolande Varns,Very Negative,,0,01/05/2025,09:41:24,1,12,613,Service Outage,Chatbot,Edinburgh
+GFH-31069057-7-359442-mF,Deedee McDugal,Very Positive,10,0,01/05/2025,09:46:08,1,12,433,Billing Question,Chatbot,Edinburgh
+BGF-24742102-r-593287-v0,Adams O'Doran,Neutral,,0,01/05/2025,09:46:18,1,4543,47129,Billing Question,Email,Edinburgh
+AYK-40018056-E-615717-WR,Dena Klosges,Negative,,0,01/05/2025,09:50:17,1,13,475,Billing Question,Chatbot,Edinburgh
+UNJ-12051790-f-849610-wP,Carlotta Kingswold,Negative,4,0,01/05/2025,09:56:31,1,16,1268,Payments,Call-Center,Edinburgh
+ZRF-11008004-3-347770-UL,Curry Hackford,Negative,3,0,01/05/2025,09:59:38,1,18,1606,Billing Question,Call-Center,Edinburgh
+WSI-64945847-M-031555-m0,Martie Seale,Very Negative,3,0,01/05/2025,09:59:54,1,15,1138,Billing Question,Call-Center,Edinburgh
+LLH-99188825-f-666605-CV,Lida Wroth,Very Positive,,0,01/05/2025,10:03:19,1,21,1492,Billing Question,Call-Center,Edinburgh
+UAC-22235771-g-301901-yT,Stillmann Moynihan,Very Negative,2,0,01/05/2025,10:11:53,1,18,1198,Billing Question,Call-Center,Edinburgh
+YUQ-33769517-z-684129-PU,Erny Hissett,Neutral,5,0,01/05/2025,10:12:57,1,20,1234,Billing Question,Call-Center,Edinburgh
+MML-95844050-s-356800-M2,Packston Simoneschi,Very Positive,,0,01/05/2025,10:17:48,1,22,998,Billing Question,Call-Center,Edinburgh
+SRA-62847439-I-253696-TJ,Kaile Surby,Neutral,6,0,01/05/2025,10:18:16,1,5181,46310,Billing Question,Email,Edinburgh
+WMA-69928696-C-195864-fY,Rudyard Brun,Neutral,,0,01/05/2025,10:23:38,1,4996,52143,Billing Question,Email,Edinburgh
+QNB-00693911-2-220173-Ra,Read Baleine,Neutral,,0,01/05/2025,10:33:54,1,19,1237,Payments,Call-Center,Edinburgh
+BIH-37129492-B-785884-PF,Pen Janaud,Very Positive,,0,01/05/2025,10:37:14,1,22,979,Payments,Call-Center,Edinburgh
+XQR-93128915-w-318285-AV,Reynolds Hancorn,Neutral,5,0,01/05/2025,10:40:20,1,2426,7055,Billing Question,Web,Edinburgh
+XFS-39381481-F-154919-SZ,Cornie Schild,Negative,,0,01/05/2025,10:41:06,1,4838,48679,Billing Question,Email,Edinburgh
+PUJ-97756744-2-643747-Sp,Missy Vlies,Neutral,,0,01/05/2025,10:50:01,1,19,1221,Payments,Call-Center,Edinburgh
+ICT-37097360-9-784182-wU,Tadeo Hengoed,Negative,,0,01/05/2025,10:53:02,1,2391,21083,Billing Question,Web,Edinburgh
+GSK-45379479-y-050641-gH,Shanan Cockarill,Neutral,,0,01/05/2025,10:55:53,1,14,385,Service Outage,Chatbot,Edinburgh
+TQD-06346036-n-617439-W3,Cornelia Broadbent,Neutral,,0,01/05/2025,11:00:48,1,5268,48112,Billing Question,Email,Edinburgh
+ADO-62752100-P-790257-Nn,Eolanda Borrett,Positive,,0,01/05/2025,11:08:08,1,18,1041,Payments,Call-Center,Edinburgh
+TJA-18225109-l-132697-GQ,Beltran Dot,Neutral,5,0,01/05/2025,11:09:36,1,4692,40826,Billing Question,Email,Edinburgh
+LHF-79321231-o-604882-TQ,Alisun Sturmey,Positive,8,0,01/05/2025,11:13:53,1,5085,36348,Billing Question,Email,Edinburgh
+TZY-74105819-e-644458-aN,Leicester Grube,Neutral,6,0,01/05/2025,11:13:57,1,4922,40243,Billing Question,Email,Edinburgh
+EUN-49027672-5-008111-Op,Georgeanna Getley,Negative,,0,01/05/2025,11:14:22,1,20,1020,Billing Question,Call-Center,Edinburgh
+FIL-43737078-Y-803324-Tr,Karlotte Belford,Negative,,0,01/05/2025,11:14:58,1,5760,42835,Service Outage,Email,Edinburgh
+XBR-54929640-T-735246-7q,Melly McWhorter,Negative,5,0,01/05/2025,11:15:27,1,2335,17874,Billing Question,Web,Edinburgh
+KQE-72389013-I-526853-zr,Sharity Ashbe,Positive,,0,01/05/2025,11:15:47,1,18,1055,Billing Question,Call-Center,Edinburgh
+ZJL-88295254-X-102449-0w,Mercedes Mecozzi,Negative,,0,01/05/2025,11:16:58,1,2381,14856,Billing Question,Web,Edinburgh
+KAQ-00613982-I-582994-t7,Davon Burkart,Neutral,,0,01/05/2025,11:23:37,1,5018,47870,Billing Question,Email,Edinburgh
+DHJ-15842606-0-613753-2n,Angel Rowlings,Positive,,0,01/05/2025,11:25:56,1,14,452,Service Outage,Chatbot,Edinburgh
+DOI-92556760-l-387401-cx,Kendall Elcoat,Negative,5,0,01/05/2025,11:26:15,1,2433,16921,Billing Question,Web,Edinburgh
+GHB-91846389-2-589448-Ny,Min Tzuker,Neutral,,0,01/05/2025,11:28:53,1,4974,40199,Billing Question,Email,Edinburgh
+PNS-16122999-2-815969-LJ,Juli Byrcher,Neutral,8,0,01/05/2025,11:36:35,1,19,1274,Billing Question,Call-Center,Edinburgh
+FYS-71717469-u-897475-Hb,Willyt Mendel,Very Negative,,0,01/05/2025,11:39:48,1,3975,39790,Billing Question,Email,Edinburgh
+MAR-73460460-p-811762-bC,Cathee Lorenzetto,Neutral,8,0,01/05/2025,11:46:15,1,18,1510,Billing Question,Call-Center,Edinburgh
+KDR-76018926-v-275554-aZ,Hillary Torbard,Positive,8,0,01/05/2025,11:50:03,1,4044,37373,Billing Question,Email,Edinburgh
+GEF-52196571-b-276554-YY,Dorri Brumby,Negative,,0,01/05/2025,11:55:22,1,4907,42709,Billing Question,Email,Edinburgh
+TYH-47915728-Z-237836-xa,Connie Rays,Very Negative,3,0,01/05/2025,11:59:09,1,10,432,Billing Question,Chatbot,Edinburgh
+VQK-94000301-I-068060-If,Dicky Korfmann,Positive,7,0,01/05/2025,12:00:09,1,11,489,Billing Question,Chatbot,Edinburgh
+WAH-13264720-4-882405-Bs,Ruprecht Khadir,Very Negative,4,0,01/05/2025,12:00:27,1,14,485,Billing Question,Chatbot,Edinburgh
+JUX-52412900-q-792454-TX,Jermayne Cressar,Neutral,6,0,01/05/2025,12:05:37,1,2362,5398,Billing Question,Web,Edinburgh
+RJZ-68919870-o-833007-xl,Myrta Neary,Negative,6,0,01/05/2025,12:05:47,1,4907,45801,Billing Question,Email,Edinburgh
+CIN-51614479-z-978450-wu,Haley Yoodall,Neutral,7,0,01/05/2025,12:06:02,1,17,492,Billing Question,Chatbot,Edinburgh
+SJW-35248182-d-250567-Wr,Mayer Skeldinge,Positive,,0,01/05/2025,12:07:53,1,4863,41340,Billing Question,Email,Edinburgh
+QID-16099919-z-498596-tJ,Novelia Mantione,Neutral,5,0,01/05/2025,12:12:14,1,2473,15646,Billing Question,Web,Edinburgh
+ZOC-58264919-C-608375-u6,Krystle Reddie,Negative,,0,01/05/2025,12:15:47,1,2510,13188,Billing Question,Web,Edinburgh
+XJL-85667573-b-578425-iF,Toma Gyde,Neutral,,0,01/05/2025,12:20:53,1,20,1222,Payments,Call-Center,Edinburgh
+RRO-88623029-s-629929-0r,Charlena Pontain,Very Negative,3,0,01/05/2025,12:33:27,1,4199,50220,Billing Question,Email,Edinburgh
+CWL-69459904-E-250429-g9,Violet Lago,Negative,,0,01/05/2025,12:38:39,1,14,519,Billing Question,Chatbot,Edinburgh
+DKA-82810490-3-579624-8t,Arv Writer,Neutral,,0,01/05/2025,12:43:35,1,2368,16073,Billing Question,Web,Edinburgh
+LRT-28856306-r-044257-2H,Emerson Prestige,Neutral,5,0,01/05/2025,12:44:55,1,18,1112,Billing Question,Call-Center,Edinburgh
+NQB-35602152-i-967598-fs,Heddie Matveiko,Very Negative,,0,01/05/2025,12:48:13,1,13,492,Billing Question,Chatbot,Edinburgh
+CVU-92106898-1-319738-Gj,Amalle Coggen,Negative,5,0,01/05/2025,12:49:43,1,4491,40878,Billing Question,Email,Edinburgh
+DCP-45002104-i-819428-VU,Wade Bonner,Negative,6,0,01/05/2025,12:50:30,1,14,1120,Billing Question,Call-Center,Edinburgh
+FCR-62841155-X-896712-yR,Geno Jamot,Very Positive,,0,01/05/2025,12:50:39,1,5350,42146,Billing Question,Email,Edinburgh
+VVV-86722209-p-122255-cl,Kala Wedgwood,Very Positive,9,0,01/05/2025,12:50:47,1,5303,49964,Billing Question,Email,Edinburgh
+NPK-39431648-K-668192-mu,Darda Roads,Very Positive,,0,01/05/2025,12:55:52,1,14,490,Billing Question,Chatbot,Edinburgh
+YHD-21328131-H-568925-sp,Tim Jopson,Very Negative,3,0,01/05/2025,13:01:51,1,2340,14439,Billing Question,Web,Edinburgh
+QIN-44303760-P-885147-76,Tamiko Coldbreath,Negative,6,0,01/05/2025,13:02:07,1,16,487,Service Outage,Chatbot,Edinburgh
+OAW-61370840-l-042495-mT,Pattie Archbutt,Negative,,0,01/05/2025,13:04:39,1,19,1346,Billing Question,Call-Center,Edinburgh
+SPK-78331040-T-236277-Ay,Starlin Sweetnam,Neutral,6,0,01/05/2025,13:05:17,1,13,453,Billing Question,Chatbot,Edinburgh
+QFP-71497625-8-727282-az,Timmie Biggen,Positive,9,0,01/05/2025,13:08:53,1,18,1503,Payments,Call-Center,Edinburgh
+DPX-81910500-D-117578-IO,Ferdinanda Conklin,Neutral,,0,01/05/2025,13:14:01,1,18,1301,Payments,Call-Center,Edinburgh
+WAS-55186190-B-411795-MT,Enrique McClintock,Negative,3,0,01/05/2025,13:23:12,1,11,545,Billing Question,Chatbot,Edinburgh
+ZOT-47145781-X-858564-gE,Nathalie Ahrend,Negative,,0,01/05/2025,13:23:18,1,2451,13947,Billing Question,Web,Edinburgh
+NPU-93388888-U-734942-o3,Dasya Sangster,Negative,,0,01/05/2025,13:30:23,1,4008,48560,Billing Question,Email,Edinburgh
+KTO-16465244-3-627106-J9,Emalia Liddle,Neutral,,0,01/05/2025,13:30:41,1,2442,14545,Billing Question,Web,Edinburgh
+ESR-85095610-C-818804-kq,Northrop Brahams,Very Positive,9,0,01/05/2025,13:33:20,1,4260,42687,Billing Question,Email,Edinburgh
+NXQ-64990229-b-665355-8X,Alister Reeken,Negative,,0,01/05/2025,13:35:01,1,15,473,Billing Question,Chatbot,Edinburgh
+LGB-05675390-l-084860-X7,Kikelia Checklin,Neutral,,0,01/05/2025,13:36:49,1,16,1453,Billing Question,Call-Center,Edinburgh
+KLH-50910602-H-355536-tF,Hurlee Sturr,Negative,5,0,01/05/2025,13:40:42,1,4596,47839,Billing Question,Email,Edinburgh
+VBJ-77742867-g-406089-EU,Gabi Poston,Negative,3,0,01/05/2025,13:46:05,1,4229,40446,Billing Question,Email,Edinburgh
+XAZ-36171174-4-778439-BD,Alano Nemchinov,Negative,,0,01/05/2025,13:46:07,1,19,1342,Billing Question,Call-Center,Edinburgh
+VLV-73000319-v-514170-v9,Johnathan Sydry,Negative,4,0,01/05/2025,13:47:13,1,2450,11664,Billing Question,Web,Edinburgh
+ZNU-85522930-b-042262-Ds,Dosi O'Gready,Neutral,,0,01/05/2025,13:49:20,1,4542,46890,Billing Question,Email,Edinburgh
+UXH-87536308-t-272929-V7,Klement Shaplin,Neutral,,0,01/05/2025,13:50:14,1,22,1387,Payments,Call-Center,Edinburgh
+PFC-76663581-P-896600-8j,Ferrel Trebilcock,Negative,6,0,01/05/2025,13:51:22,1,18,1291,Payments,Call-Center,Edinburgh
+HXU-71575028-L-725367-7k,Rhiamon Skottle,Very Positive,9,0,01/05/2025,13:54:53,1,2415,19039,Billing Question,Web,Edinburgh
+AKL-16280670-2-536158-qS,Hastings Huckleby,Very Negative,,0,01/05/2025,14:01:58,1,5196,50131,Billing Question,Email,Edinburgh
+OFN-31842208-7-776747-jb,Ram Tolliday,Negative,,0,01/05/2025,14:03:01,1,12,454,Service Outage,Chatbot,Edinburgh
+DOQ-91252822-u-434294-l7,Wallis Wolver,Neutral,6,0,01/05/2025,14:03:36,1,2381,12688,Service Outage,Web,Edinburgh
+AET-86134590-K-960606-pr,Darnall Bulpitt,Neutral,,0,01/05/2025,14:05:17,1,19,1311,Billing Question,Call-Center,Edinburgh
+IIA-95664848-G-678210-hw,Shir Timeby,Negative,6,0,01/05/2025,14:13:15,1,18,1232,Billing Question,Call-Center,Edinburgh
+UAW-41953716-f-853206-KC,Irma Brangan,Negative,,0,01/05/2025,14:15:51,1,13,457,Billing Question,Chatbot,Edinburgh
+YXU-68557757-7-089272-VT,Melisande Keener,Neutral,,0,01/05/2025,14:19:58,1,5031,42452,Billing Question,Email,Edinburgh
+FNX-27514363-S-121837-ia,Uta Caulkett,Neutral,,0,01/05/2025,14:32:54,1,2412,12131,Service Outage,Web,Edinburgh
+XWB-64573108-2-612296-Vp,Clarke Keywood,Negative,6,0,01/05/2025,14:34:31,1,4339,45227,Service Outage,Email,Edinburgh
+WSX-44645525-1-448555-Zc,Ivonne Covington,Negative,,0,01/05/2025,14:38:43,1,2396,13626,Billing Question,Web,Edinburgh
+WUG-30265077-v-571925-7G,Pattie Barroux,Positive,7,0,01/05/2025,14:38:50,1,15,518,Billing Question,Chatbot,Edinburgh
+MUX-66237239-r-534274-yL,Huntley Dunthorne,Positive,,0,01/05/2025,14:46:50,1,2446,16343,Billing Question,Web,Edinburgh
+AZB-47875867-k-702575-Pd,Marlene Rudolfer,Very Positive,10,0,01/05/2025,14:47:35,1,14,480,Service Outage,Chatbot,Edinburgh
+GVZ-89803982-Y-965257-aV,Emilia Jodrellec,Negative,,0,01/05/2025,14:55:04,1,15,465,Billing Question,Chatbot,Edinburgh
+TPC-71815742-e-743616-vU,Dorette Duckers,Very Negative,,0,01/05/2025,14:55:15,1,16,955,Billing Question,Call-Center,Edinburgh
+DTF-11966881-K-711310-wk,Linoel Rudolf,Very Positive,,0,01/05/2025,14:56:01,1,2487,17387,Billing Question,Web,Edinburgh
+DLF-43385408-0-049148-qt,Letta MacKellar,Neutral,6,0,01/05/2025,15:03:58,1,2373,11850,Billing Question,Web,Edinburgh
+UNO-56118265-P-160866-an,Web Ickovitz,Negative,6,0,01/05/2025,15:04:10,1,2424,6555,Billing Question,Web,Edinburgh
+ZIG-84783079-N-715741-2P,Elysha Dannatt,Positive,,0,01/05/2025,15:09:43,1,4749,46189,Billing Question,Email,Edinburgh
+KJJ-17532728-4-131248-Qz,Jo-anne Healy,Negative,,0,01/05/2025,15:12:13,1,17,443,Billing Question,Chatbot,Edinburgh
+QSH-57937861-D-959421-Vq,Kasey Cauldfield,Negative,,0,01/05/2025,15:14:42,1,16,565,Billing Question,Chatbot,Edinburgh
+RFE-19252806-z-028440-Jk,Matti Casiero,Neutral,8,0,01/05/2025,15:15:28,1,2471,14751,Billing Question,Web,Edinburgh
+GCZ-14913390-R-204200-gK,Isadora Jacquet,Very Negative,,0,01/05/2025,15:16:47,1,3679,44268,Billing Question,Email,Edinburgh
+QZK-87128732-E-219318-CQ,Cookie Lezemore,Neutral,6,0,01/05/2025,15:17:30,1,4703,49819,Billing Question,Email,Edinburgh
+ODF-21189298-i-103548-Ev,Hunter Delaney,Very Negative,1,0,01/05/2025,15:20:21,1,4609,48027,Billing Question,Email,Edinburgh
+BJX-46785692-n-105465-BL,Howie Clewett,Neutral,5,0,01/05/2025,15:21:06,1,5548,44171,Billing Question,Email,Edinburgh
+TMS-96300474-9-319247-8j,Constanta Lesurf,Positive,,0,01/05/2025,15:21:50,1,18,1051,Payments,Call-Center,Edinburgh
+HGX-23153280-Q-448622-XO,Bastien De Ruggiero,Neutral,,0,01/05/2025,15:31:12,1,2459,14179,Billing Question,Web,Edinburgh
+SIG-57308537-j-263279-Kt,Stanwood Fenck,Very Negative,4,0,01/05/2025,15:34:41,1,16,468,Billing Question,Chatbot,Edinburgh
+PLC-98662553-4-869845-tM,Ginnifer Yusupov,Neutral,,0,01/05/2025,15:35:35,1,14,491,Service Outage,Chatbot,Edinburgh
+QUH-38352279-m-436338-Gx,Stacee Pancoust,Neutral,,0,01/05/2025,15:37:42,1,5232,40714,Billing Question,Email,Edinburgh
+PGP-39255806-h-567348-c0,Darnell Nickels,Negative,,0,01/05/2025,15:39:37,1,18,1577,Payments,Call-Center,Edinburgh
+KGZ-02307451-u-650786-ha,Tab McCritchie,Negative,6,0,01/05/2025,15:45:12,1,4636,43875,Billing Question,Email,Edinburgh
+XTG-35599707-3-858581-Fe,Ber Stanion,Neutral,8,0,01/05/2025,15:45:55,1,2530,16015,Billing Question,Web,Edinburgh
+NAM-60001189-l-732575-4k,Terrijo O Sullivan,Neutral,,0,01/05/2025,15:46:19,1,2399,6774,Billing Question,Web,Edinburgh
+UZY-85420841-Y-263864-ut,Gustaf Kobus,Neutral,,0,01/05/2025,15:50:59,1,20,1750,Payments,Call-Center,Edinburgh
+LAF-98527189-l-947312-Ab,Nadean Brandrick,Neutral,,0,01/05/2025,15:52:20,1,5440,50624,Service Outage,Email,Edinburgh
+ZKM-92801390-j-997311-Ft,Gabie O'Lunney,Negative,,0,01/05/2025,15:52:45,1,18,1470,Billing Question,Call-Center,Edinburgh
+PXE-60856049-h-705135-al,Toby Paling,Neutral,,0,01/05/2025,16:04:38,1,18,1343,Billing Question,Call-Center,Edinburgh
+RHD-56179960-X-372193-h8,Dinnie Gudgen,Positive,9,0,01/05/2025,16:13:14,1,2427,11282,Service Outage,Web,Edinburgh
+SQO-22534275-h-082739-6p,Emelyne Skyram,Neutral,8,0,01/05/2025,16:15:52,1,18,1200,Billing Question,Call-Center,Edinburgh
+IHZ-37150522-h-594131-nv,Trevar Sawers,Negative,,0,01/05/2025,16:18:55,1,4623,49927,Service Outage,Email,Edinburgh
+RLD-36574426-Y-867651-49,Hart Abson,Very Negative,3,0,01/05/2025,16:22:47,1,14,441,Billing Question,Chatbot,Edinburgh
+EGJ-97635591-G-317429-sU,Malanie McKinna,Negative,,0,01/05/2025,16:27:28,1,18,1353,Payments,Call-Center,Edinburgh
+FYD-05343780-2-931003-wW,Ransom Orcas,Very Positive,,0,01/05/2025,16:28:31,1,5346,43022,Service Outage,Email,Edinburgh
+ARL-95296393-0-908936-G7,Noellyn Merriton,Negative,5,0,01/05/2025,16:31:46,1,15,489,Billing Question,Chatbot,Edinburgh
+ZKQ-80014282-u-679194-Sn,Melva Goward,Positive,,0,01/05/2025,16:34:53,1,15,601,Billing Question,Chatbot,Edinburgh
+SQZ-58473491-3-418099-5p,Tobye Dysart,Neutral,,0,01/05/2025,16:35:43,1,4581,47248,Billing Question,Email,Edinburgh
+EHS-97555462-c-688883-ks,Sorcha Shier,Positive,8,0,01/05/2025,16:38:52,1,13,554,Billing Question,Chatbot,Edinburgh
+BLW-53441383-C-423000-0j,Robers Uff,Positive,,0,01/05/2025,16:41:37,1,17,1589,Billing Question,Call-Center,Edinburgh
+SGY-36039980-D-168675-rQ,Gerard Saladino,Neutral,,0,01/05/2025,16:42:09,1,16,1202,Payments,Call-Center,Edinburgh
+ZYJ-70238839-G-695216-4S,Dix Lowdiane,Very Negative,2,0,01/05/2025,16:45:03,1,18,1250,Billing Question,Call-Center,Edinburgh
+YRA-52757055-3-258955-Fr,Arvie Youll,Negative,,0,01/05/2025,16:59:51,1,20,1469,Payments,Call-Center,Edinburgh
+QNZ-37335288-M-865868-cA,Fin Gotcliff,Very Negative,4,0,01/05/2025,17:03:20,1,4187,44149,Billing Question,Email,Edinburgh
+SZA-48960822-H-597360-Bo,Conni Mion,Neutral,,0,01/05/2025,17:03:43,1,4170,44932,Billing Question,Email,Edinburgh
+MCW-25688754-N-497393-81,Celisse Woodford,Very Negative,,0,01/05/2025,17:04:09,1,4164,40420,Billing Question,Email,Edinburgh
+YDU-34799261-Q-419842-pj,Patty Dowrey,Neutral,7,0,01/05/2025,17:07:38,1,4669,41100,Billing Question,Email,Edinburgh
+WTH-03697218-i-804142-V0,Lenette Elderfield,Negative,,0,01/05/2025,17:22:08,1,16,471,Billing Question,Chatbot,Edinburgh
+VNO-56746301-5-090156-p1,Lucio Bartoli,Neutral,,0,01/05/2025,17:24:53,1,4749,42145,Billing Question,Email,Edinburgh
+DJL-34808941-x-356984-Y9,Zulema Berks,Positive,,0,01/05/2025,17:26:32,1,5275,47790,Service Outage,Email,Edinburgh
+JQT-23186869-4-455679-Xk,Alyss Boshell,Negative,5,0,01/05/2025,17:30:38,1,4661,45922,Billing Question,Email,Edinburgh
+QZI-07716518-G-924494-B2,Joyous Phillput,Very Negative,,0,01/05/2025,17:31:29,1,4723,45433,Billing Question,Email,Edinburgh
+IJJ-94205878-1-052696-92,Sam Spaducci,Positive,,0,01/05/2025,17:33:11,1,19,1144,Billing Question,Call-Center,Edinburgh
+WRP-69749773-R-923732-fR,Steffane Kingsnod,Very Positive,9,0,01/05/2025,17:33:40,1,17,968,Billing Question,Call-Center,Edinburgh
+JND-86701252-9-314457-i7,Nicolette Dilger,Negative,6,0,01/05/2025,17:41:11,1,2393,14433,Billing Question,Web,Edinburgh
+JHW-78365100-M-508666-BJ,Cobb Few,Positive,8,0,01/05/2025,17:42:47,1,20,1316,Payments,Call-Center,Edinburgh
+OWR-54541991-u-815590-Bz,Benedick Teesdale,Negative,,0,01/05/2025,17:46:38,1,20,467,Service Outage,Chatbot,Edinburgh
+XRX-54003323-p-072109-iC,Aime Freeland,Negative,3,0,01/05/2025,17:50:14,1,2456,12963,Service Outage,Web,Edinburgh
+VLP-15112381-Q-064075-B7,Sybille Lubeck,Neutral,,0,01/05/2025,17:52:20,1,21,1305,Billing Question,Call-Center,Edinburgh
+LKR-95140382-k-811033-yX,Kynthia Hesse,Very Negative,,0,01/05/2025,17:54:44,1,4668,45245,Billing Question,Email,Edinburgh
+FCE-89946161-9-193247-ow,Curr Peterffy,Neutral,,0,01/05/2025,17:55:45,1,5495,49737,Billing Question,Email,Edinburgh
+VBI-11803653-0-604387-tr,Nancee Verson,Very Negative,,0,02/05/2025,08:00:58,2,12,425,Billing Question,Chatbot,Edinburgh
+RAN-88209848-D-452928-Ue,Cy Sturdy,Very Negative,2,0,02/05/2025,08:01:41,2,19,1378,Billing Question,Call-Center,Edinburgh
+HZL-64504226-5-651536-WX,Liva Bonallick,Negative,4,0,02/05/2025,08:08:31,2,20,1344,Payments,Call-Center,Edinburgh
+NWP-82050895-b-761501-4Q,Dixie Angric,Positive,,0,02/05/2025,08:10:23,2,5249,51883,Billing Question,Email,Edinburgh
+AYV-71800346-v-716698-0K,Cheston Benedit,Very Negative,,0,02/05/2025,08:22:54,2,14,444,Billing Question,Chatbot,Edinburgh
+ELH-99947083-A-822579-Ts,Nathalia Gergus,Very Positive,,0,02/05/2025,08:23:52,2,2378,2786,Billing Question,Web,Edinburgh
+WDH-97198647-b-553881-xJ,Sibel Andresser,Very Negative,4,0,02/05/2025,08:23:58,2,4473,44072,Billing Question,Email,Edinburgh
+WSQ-58344260-M-790293-GI,Winnifred Blasetti,Negative,,0,02/05/2025,08:27:24,2,15,471,Billing Question,Chatbot,Edinburgh
+LGR-63124850-M-577677-Ci,Dido Haugen,Very Negative,,0,02/05/2025,08:33:52,2,2309,13069,Billing Question,Web,Edinburgh
+COB-17441128-Y-150354-IL,Oriana Greeves,Negative,3,0,02/05/2025,08:38:52,2,16,497,Service Outage,Chatbot,Edinburgh
+OYK-07861363-V-756959-Cp,Hillary Lohden,Neutral,,0,02/05/2025,08:38:58,2,4626,44334,Billing Question,Email,Edinburgh
+OOH-22998075-2-435197-75,Estell Sponer,Very Positive,9,0,02/05/2025,08:40:58,2,4577,51117,Billing Question,Email,Edinburgh
+VKC-91992267-o-677186-fP,Brinn Lovel,Very Negative,1,0,02/05/2025,08:42:07,2,15,548,Billing Question,Chatbot,Edinburgh
+YTP-90448924-1-792082-YV,Ancell Edmand,Negative,3,0,02/05/2025,08:42:53,2,21,1308,Payments,Call-Center,Edinburgh
+CGB-98817909-g-170630-bk,Karissa Siggers,Neutral,5,0,02/05/2025,08:44:52,2,15,1490,Billing Question,Call-Center,Edinburgh
+WZI-31707809-g-428024-OW,Julieta Lampard,Positive,,0,02/05/2025,08:54:53,2,13,466,Billing Question,Chatbot,Edinburgh
+IEO-68496537-g-599321-ni,Caldwell Furmenger,Negative,,0,02/05/2025,08:58:20,2,15,385,Billing Question,Chatbot,Edinburgh
+KSC-23255264-K-045579-h1,Ram Damsell,Negative,,0,02/05/2025,08:58:34,2,16,1194,Payments,Call-Center,Edinburgh
+AZX-99156676-B-906901-nF,Annalee Heyworth,Positive,,0,02/05/2025,09:00:44,2,2381,10555,Billing Question,Web,Edinburgh
+BKX-13085552-E-876115-yg,Beverlee Keyzor,Negative,,0,02/05/2025,09:05:24,2,18,1209,Billing Question,Call-Center,Edinburgh
+MBQ-99709564-a-512933-iN,Deerdre Rothon,Neutral,8,0,02/05/2025,09:07:13,2,16,1372,Billing Question,Call-Center,Edinburgh
+GKD-96911772-h-751262-VR,Lynnea Braxton,Very Negative,1,0,02/05/2025,09:08:32,2,16,427,Billing Question,Chatbot,Edinburgh
+ZCF-99076389-B-352573-jt,Cordelia Vass,Negative,,0,02/05/2025,09:09:37,2,2412,9092,Billing Question,Web,Edinburgh
+XNO-80203645-S-085029-6H,Haley Wardlaw,Neutral,5,0,02/05/2025,09:20:20,2,19,1458,Billing Question,Call-Center,Edinburgh
+WRF-31608511-s-089120-jD,Rhetta McKeggie,Positive,,0,02/05/2025,09:22:35,2,18,1028,Payments,Call-Center,Edinburgh
+VSP-84176132-b-319695-Us,Aharon Paskell,Neutral,6,0,02/05/2025,09:23:59,2,2418,11776,Billing Question,Web,Edinburgh
+FCM-67254762-o-385954-ij,Adolphus Harbottle,Positive,7,0,02/05/2025,09:26:16,2,22,1339,Payments,Call-Center,Edinburgh
+DOW-50639901-b-264268-7e,Dru MacMychem,Neutral,5,0,02/05/2025,09:26:39,2,16,452,Service Outage,Chatbot,Edinburgh
+RJB-23934426-S-457920-E5,Maria Longforth,Neutral,5,0,02/05/2025,09:27:27,2,4288,43031,Billing Question,Email,Edinburgh
+RGF-74327382-N-489108-Pl,Bridget Thornthwaite,Negative,,0,02/05/2025,09:27:32,2,13,589,Billing Question,Chatbot,Edinburgh
+MTT-74137604-y-399380-lL,Cosette Olivazzi,Negative,,0,02/05/2025,09:27:45,2,4400,44870,Billing Question,Email,Edinburgh
+BUJ-35578819-p-280822-VP,Florencia Crystal,Neutral,6,0,02/05/2025,09:33:16,2,17,1163,Billing Question,Call-Center,Edinburgh
+USR-41995235-a-026852-gU,Mella Eltune,Neutral,5,0,02/05/2025,09:34:35,2,16,476,Service Outage,Chatbot,Edinburgh
+YUQ-95961651-G-631858-jq,Bond Wasteney,Negative,,0,02/05/2025,09:34:54,2,18,470,Billing Question,Chatbot,Edinburgh
+IIT-04784269-z-776722-jh,Ray Cuolahan,Very Positive,,0,02/05/2025,09:37:14,2,16,437,Billing Question,Chatbot,Edinburgh
+BPG-31012717-o-461165-mk,Chantal Eshelby,Neutral,,0,02/05/2025,09:41:50,2,4502,43385,Billing Question,Email,Edinburgh
+UKA-79929460-I-196132-9d,Uta Reames,Negative,,0,02/05/2025,09:46:17,2,14,455,Billing Question,Chatbot,Edinburgh
+QGT-79664101-B-068538-ib,Davy Parratt,Neutral,,0,02/05/2025,09:48:09,2,20,1359,Billing Question,Call-Center,Edinburgh
+UBY-28784841-w-722893-5J,Selina MacNeillie,Negative,,0,02/05/2025,09:51:01,2,15,440,Service Outage,Chatbot,Edinburgh
+KHJ-36147570-K-242884-fV,Morgan Issacof,Neutral,,0,02/05/2025,09:57:05,2,2374,10353,Billing Question,Web,Edinburgh
+RER-62085046-E-243511-VS,Bartie Skerman,Very Positive,,0,02/05/2025,09:58:50,2,5198,47429,Billing Question,Email,Edinburgh
+KAE-45861959-6-063742-m6,Perla Ackerley,Very Negative,1,0,02/05/2025,09:59:51,2,20,1254,Payments,Call-Center,Edinburgh
+MOL-06297930-m-115843-yf,Webb Legan,Neutral,,0,02/05/2025,10:04:12,2,20,1439,Billing Question,Call-Center,Edinburgh
+NCG-92350031-T-581971-5T,Olvan Foggarty,Very Negative,4,0,02/05/2025,10:08:06,2,2482,13771,Billing Question,Web,Edinburgh
+BOT-41338582-g-566140-kU,Aggi Lawrinson,Neutral,,0,02/05/2025,10:08:21,2,2451,17091,Billing Question,Web,Edinburgh
+PCY-19082541-l-322825-y1,Joane Foux,Very Negative,,0,02/05/2025,10:10:04,2,2492,13018,Billing Question,Web,Edinburgh
+QAZ-32670353-j-362541-F3,Fitzgerald Lagneaux,Neutral,8,0,02/05/2025,10:10:10,2,16,1165,Billing Question,Call-Center,Edinburgh
+QUA-98702126-R-351455-a6,Stanislas Dutch,Negative,,0,02/05/2025,10:11:12,2,18,1516,Payments,Call-Center,Edinburgh
+DEC-01341697-J-901817-l5,Neils Havill,Negative,,0,02/05/2025,10:13:14,2,14,521,Billing Question,Chatbot,Edinburgh
+NKJ-45906711-i-160910-0x,Eunice Duckworth,Neutral,,0,02/05/2025,10:19:52,2,2423,15431,Billing Question,Web,Edinburgh
+OVT-41145620-S-582835-Gh,Rodolph Halbord,Neutral,5,0,02/05/2025,10:23:46,2,15,560,Billing Question,Chatbot,Edinburgh
+OLK-91805261-o-039093-BF,Ainslee Nettleship,Negative,,0,02/05/2025,10:26:27,2,13,475,Service Outage,Chatbot,Edinburgh
+FKL-48976604-W-424392-su,Saw Gobat,Negative,,0,02/05/2025,10:28:51,2,2413,12780,Billing Question,Web,Edinburgh
+YHR-28846521-n-772340-3D,Meggy Olivetta,Neutral,,0,02/05/2025,10:33:36,2,5087,43469,Billing Question,Email,Edinburgh
+ADY-79608592-0-592226-iC,Christoper Shutle,Neutral,,0,02/05/2025,10:41:19,2,4221,38996,Service Outage,Email,Edinburgh
+FLG-84526449-E-097240-g5,Darcee Swabey,Very Negative,,0,02/05/2025,10:50:17,2,18,1138,Payments,Call-Center,Edinburgh
+NXY-07973986-g-730606-Nm,Jennica Itzcovichch,Neutral,5,0,02/05/2025,10:50:33,2,20,1266,Billing Question,Call-Center,Edinburgh
+HSC-77622284-B-366840-aj,Carlie Cohalan,Negative,,0,02/05/2025,10:55:09,2,15,539,Billing Question,Chatbot,Edinburgh
+ZHZ-00607664-7-951757-Jd,Heath Benfield,Very Negative,3,0,02/05/2025,10:59:50,2,4787,46207,Billing Question,Email,Edinburgh
+KWI-80271109-v-203641-gA,Jeffie Ovitts,Neutral,5,0,02/05/2025,11:03:37,2,20,517,Billing Question,Chatbot,Edinburgh
+XHD-90120266-J-646266-Zk,Jason Mathet,Neutral,,0,02/05/2025,11:03:52,2,2345,14883,Billing Question,Web,Edinburgh
+SSR-09715629-u-001105-sf,Nady Crunkhurn,Negative,4,0,02/05/2025,11:04:25,2,14,388,Billing Question,Chatbot,Edinburgh
+RDG-82234412-G-376966-HI,Teddy Vegas,Very Positive,,0,02/05/2025,11:05:38,2,18,1157,Billing Question,Call-Center,Edinburgh
+DYR-72850340-J-566302-NM,Odette Stannas,Neutral,,0,02/05/2025,11:06:44,2,18,1151,Billing Question,Call-Center,Edinburgh
+TJN-33128830-N-460759-e1,Dix Presdee,Neutral,,0,02/05/2025,11:11:24,2,15,489,Service Outage,Chatbot,Edinburgh
+ZJG-67602443-3-266335-cW,Ashlie Gwilt,Neutral,6,0,02/05/2025,11:11:37,2,18,482,Billing Question,Chatbot,Edinburgh
+YYI-24789349-j-565943-A2,Brod Boyce,Negative,3,0,02/05/2025,11:11:37,2,10,500,Billing Question,Chatbot,Edinburgh
+EMW-94644060-v-514576-uG,Ilka Wilne,Negative,,0,02/05/2025,11:22:55,2,17,1395,Payments,Call-Center,Edinburgh
+HBX-04182659-n-164164-br,Kore Martel,Negative,6,0,02/05/2025,11:26:32,2,20,1241,Payments,Call-Center,Edinburgh
+BCM-92457470-Z-001406-2V,Rebeca Collelton,Positive,7,0,02/05/2025,11:30:50,2,17,463,Billing Question,Chatbot,Edinburgh
+TQK-44327689-p-314080-ou,Corrinne Palluschek,Neutral,,0,02/05/2025,11:37:50,2,4471,48550,Billing Question,Email,Edinburgh
+ASK-67467319-e-876685-VR,Tish Varker,Negative,,0,02/05/2025,11:42:45,2,2355,10305,Billing Question,Web,Edinburgh
+BWB-03503027-g-740408-JL,Forrester Aysik,Very Negative,3,0,02/05/2025,11:48:25,2,2416,18079,Billing Question,Web,Edinburgh
+FNL-05464283-F-384533-K2,Abel Douris,Positive,,0,02/05/2025,11:52:19,2,17,1471,Billing Question,Call-Center,Edinburgh
+ZII-79364263-y-927614-g2,Olly Grimes,Negative,4,0,02/05/2025,12:05:50,2,2293,16043,Billing Question,Web,Edinburgh
+GKZ-08743745-H-643109-8I,Norry Vicioso,Neutral,,0,02/05/2025,12:07:11,2,4346,43217,Service Outage,Email,Edinburgh
+RRQ-89415232-1-379346-ip,Raimondo Durrett,Positive,7,0,02/05/2025,12:12:36,2,4020,41273,Billing Question,Email,Edinburgh
+SYS-98497784-n-354325-hq,Kamila Peschke,Positive,,0,02/05/2025,12:14:29,2,15,392,Billing Question,Chatbot,Edinburgh
+YHJ-15021974-s-332030-jC,Mignon Rylatt,Negative,,0,02/05/2025,12:15:01,2,2461,9195,Billing Question,Web,Edinburgh
+OQF-70723246-V-387455-hp,Hayes Trippett,Very Positive,10,0,02/05/2025,12:16:40,2,3765,43451,Billing Question,Email,Edinburgh
+VPR-84830741-s-045304-GL,Durant Yeowell,Very Negative,,0,02/05/2025,12:17:06,2,14,476,Service Outage,Chatbot,Edinburgh
+IWH-75107178-P-561742-pD,Shay Di Nisco,Negative,,0,02/05/2025,12:17:41,2,14,420,Billing Question,Chatbot,Edinburgh
+AAB-68191584-X-296651-JM,Hope Verissimo,Positive,,0,02/05/2025,12:18:21,2,2406,17221,Billing Question,Web,Edinburgh
+UCT-87869645-U-581681-RL,Monah Isakovitch,Neutral,,0,02/05/2025,12:20:01,2,17,1151,Billing Question,Call-Center,Edinburgh
+GAH-85838288-K-030060-1V,Nerte Segrave,Very Negative,,0,02/05/2025,12:20:02,2,2394,19446,Billing Question,Web,Edinburgh
+BCF-81665393-X-780906-NB,Reade Prangle,Neutral,,0,02/05/2025,12:20:32,2,4359,48360,Billing Question,Email,Edinburgh
+EXM-91486826-U-182260-r9,Simon Humerstone,Very Negative,,0,02/05/2025,12:26:01,2,2525,13734,Billing Question,Web,Edinburgh
+DYB-57972811-c-969709-4n,Keene Ayto,Negative,,0,02/05/2025,12:34:07,2,2380,1626,Service Outage,Web,Edinburgh
+PKU-81669327-L-422706-zl,Shaine Espy,Neutral,,0,02/05/2025,12:34:30,2,17,1611,Payments,Call-Center,Edinburgh
+LXK-16796298-j-424965-17,Micheal Spear,Neutral,,0,02/05/2025,12:38:14,2,15,481,Billing Question,Chatbot,Edinburgh
+KMP-98142882-q-585113-pA,Karlie Iorillo,Positive,9,0,02/05/2025,12:41:08,2,19,481,Billing Question,Chatbot,Edinburgh
+ZOJ-15290079-j-698280-fi,Kathi Gerriet,Neutral,,0,02/05/2025,12:44:14,2,3670,47016,Billing Question,Email,Edinburgh
+MIP-76170987-v-683271-Ld,Berkley Puxley,Negative,,0,02/05/2025,12:45:30,2,19,1364,Payments,Call-Center,Edinburgh
+XWB-05607157-H-418571-Qm,Nolana Prisley,Positive,,0,02/05/2025,13:00:38,2,4731,42836,Billing Question,Email,Edinburgh
+QXB-97835314-C-088018-bG,Jan Setter,Negative,,0,02/05/2025,13:03:08,2,19,1052,Billing Question,Call-Center,Edinburgh
+TPH-50183927-X-466836-9h,Dynah Jackways,Neutral,7,0,02/05/2025,13:13:31,2,4581,49905,Billing Question,Email,Edinburgh
+QMH-53660734-m-050709-Yq,Emmott Yann,Neutral,6,0,02/05/2025,13:15:50,2,2426,15469,Billing Question,Web,Edinburgh
+MWG-36195306-S-948175-5B,Mano Hockell,Negative,5,0,02/05/2025,13:16:42,2,2373,11977,Billing Question,Web,Edinburgh
+UQD-22879030-f-348761-Xg,Domenico Nock,Very Positive,9,0,02/05/2025,13:17:38,2,2332,18155,Billing Question,Web,Edinburgh
+JRY-09000165-a-414151-1c,Lisle O'Mahoney,Neutral,5,0,02/05/2025,13:20:01,2,2307,4261,Billing Question,Web,Edinburgh
+TUM-66913632-G-887379-n9,Tobye Statefield,Positive,,0,02/05/2025,13:20:11,2,2388,12828,Billing Question,Web,Edinburgh
+EGU-32317141-K-044761-kC,Demetris Holbarrow,Negative,,0,02/05/2025,13:23:40,2,2368,13257,Billing Question,Web,Edinburgh
+WMQ-06227539-Z-890375-MI,Brigitta Robeson,Very Negative,,0,02/05/2025,13:34:07,2,19,1241,Payments,Call-Center,Edinburgh
+ZDF-87816662-8-316174-OJ,Letty Henriksson,Very Positive,9,0,02/05/2025,13:41:17,2,14,466,Service Outage,Chatbot,Edinburgh
+LCK-60327217-j-614820-VA,Lianna Kyd,Neutral,8,0,02/05/2025,13:48:33,2,4647,46602,Billing Question,Email,Edinburgh
+JAY-13925883-L-967801-9g,Farica Bernollet,Very Negative,,0,02/05/2025,13:54:26,2,18,1167,Payments,Call-Center,Edinburgh
+GOA-95208227-n-384705-S0,Cora Ubsdale,Negative,,0,02/05/2025,13:54:34,2,19,1352,Payments,Call-Center,Edinburgh
+LJU-55289096-5-561642-TX,Amity Warden,Negative,5,0,02/05/2025,13:54:52,2,13,499,Service Outage,Chatbot,Edinburgh
+MNZ-91194902-Y-704096-16,Joe Argontt,Neutral,,0,02/05/2025,13:56:45,2,15,512,Service Outage,Chatbot,Edinburgh
+PCE-67694008-Y-445488-ig,Kylynn Ordelt,Negative,4,0,02/05/2025,14:00:41,2,19,1481,Billing Question,Call-Center,Edinburgh
+KGT-08199357-1-293952-8s,Giordano Applin,Negative,5,0,02/05/2025,14:00:54,2,2450,19103,Billing Question,Web,Edinburgh
+CPM-86439312-E-159724-pv,Augustina Semeniuk,Negative,,0,02/05/2025,14:03:37,2,2410,7470,Billing Question,Web,Edinburgh
+WYY-78088827-z-460380-BM,Glen Millmoe,Very Negative,3,0,02/05/2025,14:07:21,2,17,1458,Billing Question,Call-Center,Edinburgh
+APS-11765269-c-809718-8q,Jacquenette Pittem,Negative,,0,02/05/2025,14:08:14,2,18,1203,Payments,Call-Center,Edinburgh
+ATP-43583513-1-552060-51,Willis Tees,Positive,,0,02/05/2025,14:09:46,2,17,1613,Billing Question,Call-Center,Edinburgh
+EHK-72110595-G-154496-ip,Maje Jenno,Negative,,0,02/05/2025,14:14:08,2,16,501,Billing Question,Chatbot,Edinburgh
+AIX-64842660-h-427011-KH,Biddie Gillow,Positive,9,0,02/05/2025,14:14:53,2,15,486,Billing Question,Chatbot,Edinburgh
+RLG-69874742-f-666744-im,Cybill Curnok,Neutral,,0,02/05/2025,14:18:20,2,2406,16399,Service Outage,Web,Edinburgh
+WFJ-47169670-f-958100-t9,Iorgo Hafner,Neutral,7,0,02/05/2025,14:36:35,2,20,1048,Billing Question,Call-Center,Edinburgh
+SAY-06614665-2-592656-bu,Deanna Colquyte,Negative,3,0,02/05/2025,14:37:28,2,17,1227,Payments,Call-Center,Edinburgh
+PEA-61141007-7-291445-H9,Aeriel Scopham,Negative,,0,02/05/2025,14:38:52,2,4914,46223,Billing Question,Email,Edinburgh
+UWK-03235835-8-836183-7C,Felice Margaritelli,Very Negative,3,0,02/05/2025,14:54:09,2,4885,47685,Billing Question,Email,Edinburgh
+DGN-31353718-H-982122-ow,Erhart Field,Very Negative,3,0,02/05/2025,14:57:37,2,4421,46381,Billing Question,Email,Edinburgh
+IJK-20262230-9-076721-wJ,Chadd Cuttelar,Negative,4,0,02/05/2025,15:02:27,2,18,1279,Billing Question,Call-Center,Edinburgh
+NEA-49348149-Q-848223-Bz,Thomasa Buttwell,Very Negative,4,0,02/05/2025,15:04:29,2,9,497,Billing Question,Chatbot,Edinburgh
+MXJ-03906228-l-056931-bV,Ariel Stubbe,Negative,3,0,02/05/2025,15:04:50,2,4823,49089,Service Outage,Email,Edinburgh
+KEC-38288503-9-217865-rt,Salim Portchmouth,Very Negative,,0,02/05/2025,15:07:02,2,2437,20260,Service Outage,Web,Edinburgh
+JMT-82948629-I-790348-Jj,Ned Mallinson,Neutral,,0,02/05/2025,15:11:21,2,4336,38238,Billing Question,Email,Edinburgh
+XII-58990823-7-060096-46,Silvester Pudner,Very Negative,,0,02/05/2025,15:12:22,2,19,1297,Billing Question,Call-Center,Edinburgh
+FEO-34989924-w-837635-IW,Tammara Lennon,Negative,,0,02/05/2025,15:17:51,2,15,609,Billing Question,Chatbot,Edinburgh
+PBS-69643572-o-236416-fd,Sholom Gauchier,Very Negative,,0,02/05/2025,15:18:29,2,17,1167,Payments,Call-Center,Edinburgh
+QBR-86852073-q-025562-KS,Annabal Potteril,Neutral,,0,02/05/2025,15:20:17,2,16,464,Billing Question,Chatbot,Edinburgh
+GIS-96269368-3-311419-BO,Dennis Lattimer,Neutral,,0,02/05/2025,15:23:02,2,17,455,Billing Question,Chatbot,Edinburgh
+FSS-79832769-z-856615-Mr,Rasla Esparza,Very Negative,,0,02/05/2025,15:24:40,2,19,1393,Billing Question,Call-Center,Edinburgh
+LCB-09615354-5-281441-9N,Eldridge Priditt,Very Negative,2,0,02/05/2025,15:31:54,2,18,509,Billing Question,Chatbot,Edinburgh
+AIZ-77983274-F-666637-rD,Marcello Barrows,Negative,3,0,02/05/2025,15:33:37,2,14,522,Billing Question,Chatbot,Edinburgh
+QWR-59099514-P-395280-yJ,Chancey Munehay,Neutral,8,0,02/05/2025,15:35:20,2,15,494,Billing Question,Chatbot,Edinburgh
+SNG-86922697-6-349995-id,Lazaro Beeby,Negative,6,0,02/05/2025,15:38:28,2,18,1261,Payments,Call-Center,Edinburgh
+EOB-06339542-b-818562-g1,Joycelin Brahams,Positive,7,0,02/05/2025,15:40:47,2,14,468,Billing Question,Chatbot,Edinburgh
+OHF-71219406-Q-145073-Zy,Em Collinette,Neutral,,0,02/05/2025,15:41:18,2,4523,46642,Billing Question,Email,Edinburgh
+IOS-76398497-n-727824-TX,Lilllie Backman,Neutral,,0,02/05/2025,15:42:49,2,20,1039,Billing Question,Call-Center,Edinburgh
+FDT-04687479-U-317797-ks,Oran Ace,Very Negative,3,0,02/05/2025,15:44:33,2,14,420,Billing Question,Chatbot,Edinburgh
+JPR-58002167-t-223448-yq,Karylin Varvara,Neutral,,0,02/05/2025,15:47:30,2,15,442,Service Outage,Chatbot,Edinburgh
+KVE-03608097-C-508240-AC,Lina Filchagin,Neutral,,0,02/05/2025,15:53:59,2,17,1477,Billing Question,Call-Center,Edinburgh
+LKQ-02896665-G-048779-1i,Desi Lodemann,Neutral,,0,02/05/2025,15:55:48,2,2432,9911,Billing Question,Web,Edinburgh
+WRQ-34330899-q-350723-GC,Brock Leborgne,Neutral,,0,02/05/2025,15:58:21,2,19,1143,Billing Question,Call-Center,Edinburgh
+DVH-55068236-Q-353930-xi,Hershel Deabill,Positive,,0,02/05/2025,16:08:18,2,18,1454,Billing Question,Call-Center,Edinburgh
+YNJ-33275247-s-006805-Ss,Simmonds Adaway,Neutral,5,0,02/05/2025,16:16:54,2,18,1616,Payments,Call-Center,Edinburgh
+JTW-60811761-7-189384-pg,Elmore Forty,Neutral,6,0,02/05/2025,16:20:32,2,10,438,Billing Question,Chatbot,Edinburgh
+HOB-91522592-b-699926-X2,Elvira Mustarde,Very Negative,3,0,02/05/2025,16:28:53,2,4285,44524,Billing Question,Email,Edinburgh
+BMX-56120155-7-228672-vk,Rayner O'Doogan,Neutral,6,0,02/05/2025,16:32:37,2,2446,16791,Service Outage,Web,Edinburgh
+QMJ-12936224-A-779527-f6,Elijah Swabey,Neutral,5,0,02/05/2025,16:33:44,2,17,1305,Billing Question,Call-Center,Edinburgh
+DJT-68285659-m-407458-st,Fayina Grisenthwaite,Very Positive,10,0,02/05/2025,16:34:26,2,21,1446,Payments,Call-Center,Edinburgh
+CAN-71964245-J-208991-UW,Kev Twiddy,Very Negative,,0,02/05/2025,16:36:36,2,21,1073,Billing Question,Call-Center,Edinburgh
+IJJ-98384178-X-066910-7Y,Hunfredo Colcutt,Positive,,0,02/05/2025,16:42:06,2,17,1522,Payments,Call-Center,Edinburgh
+LMR-68858294-L-183176-Qy,Rey Sabatini,Negative,,0,02/05/2025,16:43:43,2,19,1107,Payments,Call-Center,Edinburgh
+HMI-18480461-3-866007-PB,Fanchette Kinloch,Negative,,0,02/05/2025,16:44:22,2,14,517,Billing Question,Chatbot,Edinburgh
+ZAC-11325951-d-888307-22,Skipper Boame,Neutral,6,0,02/05/2025,16:45:14,2,4208,49060,Billing Question,Email,Edinburgh
+AHI-75322844-f-234785-fw,Garfield Hamber,Negative,,0,02/05/2025,16:46:22,2,2390,12395,Billing Question,Web,Edinburgh
+GJH-61190910-q-856579-a4,Desiree Yglesias,Negative,3,0,02/05/2025,16:49:00,2,4890,39358,Billing Question,Email,Edinburgh
+JJS-35509986-u-608627-1n,Monica Scarman,Negative,,0,02/05/2025,16:51:12,2,2315,15402,Billing Question,Web,Edinburgh
+BAW-10865972-T-462889-1G,Sonya Benninger,Negative,4,0,02/05/2025,16:55:00,2,4863,47291,Billing Question,Email,Edinburgh
+PHP-92783058-K-425632-Pt,Daniela Swainston,Very Positive,,0,02/05/2025,16:57:35,2,4613,44205,Billing Question,Email,Edinburgh
+EQH-68012893-G-550661-Mm,Courtney Goodyear,Neutral,,0,02/05/2025,17:02:18,2,2514,9063,Billing Question,Web,Edinburgh
+ZWP-97279607-R-494741-h8,Rollo Chartres,Very Negative,3,0,02/05/2025,17:11:36,2,18,991,Payments,Call-Center,Edinburgh
+MPP-55424159-A-218221-Jo,Morrie Kingcott,Negative,,0,02/05/2025,17:11:51,2,18,1385,Billing Question,Call-Center,Edinburgh
+CBE-65430562-F-281611-e3,Martino Sheddan,Very Negative,3,0,02/05/2025,17:26:08,2,2527,11908,Billing Question,Web,Edinburgh
+GKE-59518739-D-659806-Hx,Raimund Stanway,Neutral,,0,02/05/2025,17:26:33,2,5251,39830,Billing Question,Email,Edinburgh
+ZIJ-84469264-B-960008-At,Germaine Iashvili,Positive,,0,02/05/2025,17:30:31,2,15,496,Service Outage,Chatbot,Edinburgh
+SWT-00047221-7-878270-6G,Avril Kornyakov,Very Negative,,0,02/05/2025,17:48:07,2,18,1278,Billing Question,Call-Center,Edinburgh
+MOJ-75908261-m-976177-u5,Tova Ozanne,Negative,,0,02/05/2025,17:53:15,2,18,482,Billing Question,Chatbot,Edinburgh
+QSH-65287035-O-626882-cJ,Ameline Turford,Neutral,,0,03/05/2025,08:04:31,3,2412,9617,Billing Question,Web,Edinburgh
+AOZ-08533996-j-453504-6n,Georg Scandrite,Negative,4,0,03/05/2025,08:08:12,3,4204,41151,Billing Question,Email,Edinburgh
+ZGZ-47323582-m-405360-5U,Ulrica Train,Positive,,0,03/05/2025,08:16:59,3,4025,41734,Billing Question,Email,Edinburgh
+FCP-38542454-4-836935-lt,Savina Napolione,Neutral,6,0,03/05/2025,08:19:38,3,2381,8135,Billing Question,Web,Edinburgh
+KYC-66945534-1-550280-XO,Florence Stuckow,Negative,4,0,03/05/2025,08:22:04,3,18,1324,Billing Question,Call-Center,Edinburgh
+YGW-58171928-Y-905458-I5,Malva Rockliffe,Negative,3,0,03/05/2025,08:26:56,3,16,1321,Billing Question,Call-Center,Edinburgh
+VHG-77199965-r-389700-TJ,Berna Calcott,Neutral,,0,03/05/2025,08:28:10,3,21,1243,Billing Question,Call-Center,Edinburgh
+PPU-05294620-S-876007-is,Neils Huffy,Negative,,0,03/05/2025,08:30:51,3,17,1308,Payments,Call-Center,Edinburgh
+QPT-72028011-n-917120-kh,Nanette Bakhrushkin,Neutral,8,0,03/05/2025,08:34:32,3,12,528,Service Outage,Chatbot,Edinburgh
+WAJ-69873584-Z-819160-Ko,Alayne Dogg,Negative,,0,03/05/2025,08:36:02,3,4807,41006,Service Outage,Email,Edinburgh
+DTU-23916608-V-134248-WG,Myrvyn Readshaw,Neutral,5,0,03/05/2025,08:37:11,3,4687,42352,Service Outage,Email,Edinburgh
+HCU-73077575-f-845566-Xr,Jocelyne Meece,Negative,5,0,03/05/2025,08:41:17,3,2411,16628,Billing Question,Web,Edinburgh
+IJH-07019338-G-407642-FG,Redford Bragginton,Negative,,0,03/05/2025,08:47:56,3,4698,43785,Service Outage,Email,Edinburgh
+KJY-05471823-8-970740-59,Irwinn Alison,Negative,3,0,03/05/2025,08:48:46,3,4849,45191,Billing Question,Email,Edinburgh
+XSU-56757571-0-055918-cD,Yettie Budge,Negative,4,0,03/05/2025,08:50:42,3,13,438,Billing Question,Chatbot,Edinburgh
+YCI-46501191-E-824916-Z8,Penrod Stanesby,Very Negative,,0,03/05/2025,08:51:04,3,13,465,Billing Question,Chatbot,Edinburgh
+PDX-32044364-f-701929-h4,Darrelle Ragg,Very Positive,10,0,03/05/2025,08:53:44,3,13,500,Billing Question,Chatbot,Edinburgh
+KCR-23199696-V-141766-j8,Antin Kynton,Neutral,,0,03/05/2025,08:58:07,3,17,443,Service Outage,Chatbot,Edinburgh
+WIB-62280547-d-412791-U9,Kahlil Maw,Very Negative,4,0,03/05/2025,09:09:46,3,2404,13441,Billing Question,Web,Edinburgh
+ONI-03346932-s-989641-FN,Tammy Woodcraft,Very Positive,,0,03/05/2025,09:10:40,3,24,1399,Payments,Call-Center,Edinburgh
+VCA-79987040-y-692172-zZ,Fidelia Mechem,Neutral,5,0,03/05/2025,09:15:30,3,5257,40834,Billing Question,Email,Edinburgh
+QED-29060465-Z-613523-io,Muhammad Brigdale,Negative,5,0,03/05/2025,09:18:26,3,19,1308,Billing Question,Call-Center,Edinburgh
+WJN-65615284-C-398703-jD,Toby Mitton,Negative,,0,03/05/2025,09:20:38,3,2429,7174,Billing Question,Web,Edinburgh
+ZOH-21183157-4-313147-CF,Claude Worstall,Neutral,,0,03/05/2025,09:22:57,3,5128,50788,Service Outage,Email,Edinburgh
+UOU-20357053-7-486119-Fp,Sybyl Calkin,Neutral,,0,03/05/2025,09:25:59,3,5377,47032,Billing Question,Email,Edinburgh
+TOI-90864047-o-351866-4S,Carver Greaterex,Very Positive,9,0,03/05/2025,09:32:43,3,12,527,Billing Question,Chatbot,Edinburgh
+LCC-13160024-z-790161-5n,Cristie Schollar,Neutral,7,0,03/05/2025,09:33:19,3,18,1513,Billing Question,Call-Center,Edinburgh
+GUI-97028364-P-856650-6A,Martynne Egglestone,Very Positive,,0,03/05/2025,09:33:26,3,14,485,Billing Question,Chatbot,Edinburgh
+FXS-00288696-K-832651-ql,Orran Capinetti,Positive,9,0,03/05/2025,09:36:06,3,2422,7699,Billing Question,Web,Edinburgh
+VSY-33904731-g-767981-lu,Rickard Gantz,Neutral,7,0,03/05/2025,09:36:58,3,17,1201,Billing Question,Call-Center,Edinburgh
+TWC-88445189-2-477025-N1,Ludovico Mulligan,Neutral,8,0,03/05/2025,09:40:58,3,12,448,Billing Question,Chatbot,Edinburgh
+BPV-24383069-N-284683-em,Kandy Fischer,Very Positive,,0,03/05/2025,09:41:39,3,17,1187,Payments,Call-Center,Edinburgh
+MDE-83866419-G-254046-OK,Kaylee Margrett,Negative,,0,03/05/2025,09:42:34,3,2365,9436,Billing Question,Web,Edinburgh
+OAG-30783905-O-727453-Lj,Vannie Bedo,Positive,9,0,03/05/2025,09:51:11,3,4909,40521,Billing Question,Email,Edinburgh
+MJE-26401366-G-194266-ED,Filip Rottery,Very Positive,9,0,03/05/2025,09:52:29,3,4745,46986,Billing Question,Email,Edinburgh
+MOQ-03586319-C-300701-MM,Ddene Killingworth,Very Negative,,0,03/05/2025,09:56:39,3,4531,46548,Service Outage,Email,Edinburgh
+WLQ-20335258-h-730986-VP,Carlee Shevelin,Very Negative,,0,03/05/2025,09:59:43,3,15,426,Billing Question,Chatbot,Edinburgh
+CHF-89442997-A-873337-FU,Jesselyn Lofty,Negative,6,0,03/05/2025,10:04:45,3,4500,42091,Billing Question,Email,Edinburgh
+AJN-18025055-L-020693-Vd,Ashlan Argont,Neutral,,0,03/05/2025,10:05:37,3,5526,42096,Billing Question,Email,Edinburgh
+UXK-82218977-a-875963-kw,Leigh Galia,Very Positive,,0,03/05/2025,10:07:56,3,18,1285,Payments,Call-Center,Edinburgh
+QHI-77466785-S-390634-uD,Sabra Hedling,Neutral,8,0,03/05/2025,10:12:21,3,12,448,Service Outage,Chatbot,Edinburgh
+TYG-58700123-E-789044-qd,Susana Jeays,Neutral,,0,03/05/2025,10:14:41,3,4248,45692,Billing Question,Email,Edinburgh
+KMV-57258130-M-433481-OG,Gertruda Hopfer,Positive,7,0,03/05/2025,10:20:50,3,4855,43482,Service Outage,Email,Edinburgh
+ZUJ-82108516-v-330469-ug,Yasmin Norres,Very Negative,4,0,03/05/2025,10:21:20,3,17,495,Service Outage,Chatbot,Edinburgh
+HVC-70228895-C-978253-0y,Sheila-kathryn McAdam,Negative,,0,03/05/2025,10:21:33,3,2364,10433,Billing Question,Web,Edinburgh
+AOC-53770312-n-467737-U3,Wakefield Heddy,Neutral,,0,03/05/2025,10:26:43,3,14,442,Billing Question,Chatbot,Edinburgh
+GCQ-40136447-y-419516-vY,Karlyn Bereford,Very Positive,,0,03/05/2025,10:28:10,3,4359,42439,Billing Question,Email,Edinburgh
+PPP-42574722-t-928526-bh,Cesar Dransfield,Neutral,,0,03/05/2025,10:35:36,3,5198,45906,Billing Question,Email,Edinburgh
+ATC-91293553-Y-554443-VU,Nollie Hulbert,Neutral,6,0,03/05/2025,10:35:42,3,4673,46202,Billing Question,Email,Edinburgh
+TJF-81507597-5-249704-5F,Maurice Alesi,Negative,,0,03/05/2025,10:36:32,3,11,442,Billing Question,Chatbot,Edinburgh
+ORZ-54712714-g-265329-59,Loella Clerke,Very Positive,9,0,03/05/2025,10:38:50,3,17,1239,Payments,Call-Center,Edinburgh
+EZS-55402267-Q-234545-cs,Mandie Beach,Very Negative,,0,03/05/2025,10:40:37,3,19,1119,Payments,Call-Center,Edinburgh
+DEZ-63606378-1-171168-dB,Minor Crampsy,Negative,5,0,03/05/2025,10:41:06,3,4784,39010,Billing Question,Email,Edinburgh
+CGN-91907830-g-204203-LT,Bobette Rosenzveig,Negative,4,0,03/05/2025,10:42:21,3,11,436,Billing Question,Chatbot,Edinburgh
+TYT-68851278-T-976820-65,Fanya Leeke,Neutral,8,0,03/05/2025,10:44:29,3,18,1372,Billing Question,Call-Center,Edinburgh
+CMC-19913204-i-170237-y7,Wilton Ferrarin,Negative,,0,03/05/2025,10:48:09,3,3601,50632,Billing Question,Email,Edinburgh
+YDU-59440037-Q-159786-ng,Sallyann Kennard,Negative,,0,03/05/2025,10:58:03,3,17,1466,Payments,Call-Center,Edinburgh
+YAU-61644813-2-785498-Vp,Tallie McGillivrie,Negative,,0,03/05/2025,10:59:00,3,18,1177,Payments,Call-Center,Edinburgh
+UFG-69164579-u-640373-tx,Avivah Stiegars,Very Negative,4,0,03/05/2025,10:59:29,3,16,489,Billing Question,Chatbot,Edinburgh
+VCW-01451501-V-687353-eb,Russ Deegin,Negative,,0,03/05/2025,11:07:02,3,4468,46006,Billing Question,Email,Edinburgh
+SSD-92374225-Y-350914-WY,Shamus Swadden,Negative,4,0,03/05/2025,11:07:13,3,17,472,Billing Question,Chatbot,Edinburgh
+LJH-38657506-Q-364731-bC,Claus Stratton,Neutral,,0,03/05/2025,11:15:36,3,14,468,Billing Question,Chatbot,Edinburgh
+HXI-28652633-4-153140-lh,Reinhold Blakeden,Negative,,0,03/05/2025,11:16:30,3,4845,47172,Billing Question,Email,Edinburgh
+FPI-64324484-u-997344-Og,Emylee Bennit,Very Positive,10,0,03/05/2025,11:18:07,3,17,1352,Billing Question,Call-Center,Edinburgh
+AAY-33436823-a-839214-vh,Adiana Albisser,Neutral,,0,03/05/2025,11:20:29,3,18,971,Billing Question,Call-Center,Edinburgh
+ZOT-93312590-Q-332983-Nn,Lynnette Debold,Positive,,0,03/05/2025,11:23:07,3,2439,9467,Billing Question,Web,Edinburgh
+RPG-24738890-2-483240-I4,Burl Klimes,Very Positive,,0,03/05/2025,11:26:00,3,4677,41136,Billing Question,Email,Edinburgh
+POS-04069219-d-858625-9R,Gussie Moden,Positive,,0,03/05/2025,11:33:38,3,17,1482,Billing Question,Call-Center,Edinburgh
+FYT-38259003-E-125663-vm,Hubie Corben,Negative,,0,03/05/2025,11:34:51,3,19,1321,Payments,Call-Center,Edinburgh
+PKD-29382685-m-584071-jE,Burke Smy,Neutral,8,0,03/05/2025,11:35:27,3,5203,44562,Service Outage,Email,Edinburgh
+KPF-07147203-P-057595-u8,Aldous Elderidge,Negative,,0,03/05/2025,11:40:05,3,4701,48818,Billing Question,Email,Edinburgh
+IZC-51251028-7-685267-Vy,Sholom Mattocks,Negative,,0,03/05/2025,11:46:16,3,4739,50203,Billing Question,Email,Edinburgh
+NBE-86293179-I-082386-XJ,Godiva Burgin,Neutral,,0,03/05/2025,11:47:35,3,17,1436,Billing Question,Call-Center,Edinburgh
+KCC-66127552-2-827965-cz,Ariana Melly,Positive,,0,03/05/2025,11:47:48,3,4550,47717,Billing Question,Email,Edinburgh
+CYF-55706720-5-048339-d4,Arvie Sagerson,Very Positive,,0,03/05/2025,11:57:25,3,4532,43717,Billing Question,Email,Edinburgh
+JVW-91580675-w-652628-7l,Gan Cranmor,Neutral,,0,03/05/2025,12:01:26,3,4842,43255,Billing Question,Email,Edinburgh
+NNL-80153460-L-664893-dQ,Tad Chomley,Negative,5,0,03/05/2025,12:05:14,3,19,1172,Billing Question,Call-Center,Edinburgh
+MXJ-62497420-y-920826-Cq,Becka Trevena,Very Negative,4,0,03/05/2025,12:14:29,3,2337,9917,Billing Question,Web,Edinburgh
+BEP-78607979-D-344587-K4,Mirella Lettice,Neutral,6,0,03/05/2025,12:20:33,3,2482,15634,Service Outage,Web,Edinburgh
+XHN-98084719-1-422781-1p,Freddie Kroch,Neutral,,0,03/05/2025,12:21:57,3,17,1031,Payments,Call-Center,Edinburgh
+UDJ-01508422-p-587440-zw,Alexandra Harriot,Positive,,0,03/05/2025,12:22:21,3,2460,11684,Billing Question,Web,Edinburgh
+NAG-71559602-4-465361-8Y,Druci Skirrow,Neutral,,0,03/05/2025,12:26:07,3,15,485,Billing Question,Chatbot,Edinburgh
+AQF-80850124-a-660076-IW,Mikkel Ricardou,Negative,4,0,03/05/2025,12:28:09,3,16,1101,Payments,Call-Center,Edinburgh
+AQF-90898167-m-714239-zb,Gerome Beaston,Positive,,0,03/05/2025,12:30:48,3,4389,42140,Billing Question,Email,Edinburgh
+UPK-30633011-4-635081-tQ,Perl Eastway,Very Negative,,0,03/05/2025,12:37:12,3,15,464,Service Outage,Chatbot,Edinburgh
+BME-48871605-Q-265491-D0,Faydra Jennery,Neutral,,0,03/05/2025,12:38:38,3,4576,43324,Billing Question,Email,Edinburgh
+JFA-34962698-d-122640-aF,Leland Tripean,Negative,,0,03/05/2025,12:39:44,3,17,1179,Payments,Call-Center,Edinburgh
+XRX-75706340-n-270664-pA,Elicia Durrad,Negative,,0,03/05/2025,12:43:29,3,19,1386,Billing Question,Call-Center,Edinburgh
+FRF-45404554-G-936752-4i,Oliver Joder,Positive,,0,03/05/2025,12:46:41,3,16,1145,Billing Question,Call-Center,Edinburgh
+CQB-77816723-x-847371-zj,Adara Pettis,Negative,,0,03/05/2025,12:51:10,3,17,500,Service Outage,Chatbot,Edinburgh
+DOI-32847258-b-803757-X6,Ezekiel Coxwell,Very Negative,4,0,03/05/2025,12:55:19,3,18,1100,Payments,Call-Center,Edinburgh
+YDL-66224772-0-500509-fz,Ignatius Renbold,Negative,,0,03/05/2025,13:07:33,3,20,1394,Billing Question,Call-Center,Edinburgh
+MHU-15016673-B-486184-vS,Clevie Waplinton,Negative,,0,03/05/2025,13:08:25,3,4843,46819,Billing Question,Email,Edinburgh
+DYL-07372470-E-074531-7u,Danni Hyland,Very Negative,4,0,03/05/2025,13:17:25,3,2401,8553,Billing Question,Web,Edinburgh
+QWA-17409316-k-473605-zo,Arielle Sidebotton,Negative,,0,03/05/2025,13:20:21,3,14,486,Billing Question,Chatbot,Edinburgh
+WDR-20161989-6-536484-m1,Meade Cuthbertson,Positive,,0,03/05/2025,13:21:42,3,19,1229,Payments,Call-Center,Edinburgh
+AOM-27598418-H-732848-dm,Stacia Mingo,Very Positive,9,0,03/05/2025,13:22:46,3,19,977,Billing Question,Call-Center,Edinburgh
+UPS-61170458-o-341392-3B,Lacey Sadat,Positive,8,0,03/05/2025,13:27:30,3,19,1521,Billing Question,Call-Center,Edinburgh
+ZCV-13280395-f-239468-Sb,Monti Nornasell,Very Positive,,0,03/05/2025,13:29:28,3,18,1058,Billing Question,Call-Center,Edinburgh
+WOI-79210595-L-933470-a6,Augustine McKague,Negative,,0,03/05/2025,13:30:56,3,4458,42970,Billing Question,Email,Edinburgh
+OXR-76199335-Y-254028-xe,Georgena Chanders,Very Negative,4,0,03/05/2025,13:31:45,3,20,1198,Billing Question,Call-Center,Edinburgh
+DME-39890821-J-703409-oy,Carri Lapthorne,Neutral,,0,03/05/2025,13:36:43,3,3513,49162,Billing Question,Email,Edinburgh
+CGZ-52700697-O-153639-V7,Hal Amor,Negative,6,0,03/05/2025,13:37:46,3,12,483,Billing Question,Chatbot,Edinburgh
+OKS-75736900-N-327303-aD,Jody Stoneham,Neutral,,0,03/05/2025,13:38:43,3,2336,12969,Service Outage,Web,Edinburgh
+PSM-89994448-C-849233-TZ,Camey Kolis,Neutral,8,0,03/05/2025,13:39:25,3,16,525,Billing Question,Chatbot,Edinburgh
+HRS-81529789-f-158698-3S,Corissa Cubbin,Neutral,7,0,03/05/2025,13:44:10,3,2408,13970,Billing Question,Web,Edinburgh
+VZK-30144014-t-769634-RD,Marchelle Barszczewski,Neutral,,0,03/05/2025,13:49:11,3,18,1033,Billing Question,Call-Center,Edinburgh
+QOJ-66717068-k-201725-AK,Sunshine Trorey,Negative,6,0,03/05/2025,13:53:40,3,16,457,Billing Question,Chatbot,Edinburgh
+ZJJ-19615989-B-459465-uP,Abram Valencia,Very Negative,,0,03/05/2025,13:56:10,3,4694,45261,Billing Question,Email,Edinburgh
+NWX-68735747-8-594114-Ef,Barnie Damiral,Negative,4,0,03/05/2025,13:57:39,3,13,452,Billing Question,Chatbot,Edinburgh
+MNT-77275457-d-233237-Wr,Roselle Phifer,Positive,7,0,03/05/2025,14:02:35,3,19,1322,Billing Question,Call-Center,Edinburgh
+ROA-84620910-f-444979-M2,Carl Orritt,Positive,,0,03/05/2025,14:06:32,3,16,1299,Payments,Call-Center,Edinburgh
+GGJ-76832322-j-899921-L7,Joby Heindle,Negative,,0,03/05/2025,14:06:55,3,4185,45616,Billing Question,Email,Edinburgh
+SUN-73470831-5-930660-dw,Letizia Canner,Very Negative,,0,03/05/2025,14:15:12,3,14,1323,Billing Question,Call-Center,Edinburgh
+TEJ-86718102-J-696155-bD,Ario Spurdens,Positive,,0,03/05/2025,14:15:26,3,4158,42860,Billing Question,Email,Edinburgh
+SWD-18302628-v-239258-zI,Carlyn Vynoll,Very Negative,4,0,03/05/2025,14:15:36,3,4943,48275,Billing Question,Email,Edinburgh
+OFU-56386889-K-303902-6P,Tades Oen,Positive,,0,03/05/2025,14:17:33,3,2449,5700,Billing Question,Web,Edinburgh
+ODC-99534718-X-562565-Ij,Miller Bampforth,Neutral,,0,03/05/2025,14:22:49,3,2489,12115,Billing Question,Web,Edinburgh
+ZIC-53771141-H-352698-Gl,Jillana Clamp,Negative,5,0,03/05/2025,14:24:10,3,6006,40745,Billing Question,Email,Edinburgh
+GZD-50459522-O-178569-D2,Sophie Kleinerman,Very Negative,2,0,03/05/2025,14:32:12,3,12,514,Billing Question,Chatbot,Edinburgh
+EEU-13933168-F-776381-wR,Lenette Hansie,Negative,5,0,03/05/2025,14:34:23,3,17,1313,Payments,Call-Center,Edinburgh
+ZEQ-26071417-j-044753-bi,Brigit Mence,Neutral,6,0,03/05/2025,14:35:48,3,14,385,Billing Question,Chatbot,Edinburgh
+ZAW-86317847-2-728108-Yi,Sheila-kathryn Hampstead,Very Negative,,0,03/05/2025,14:35:49,3,16,1490,Payments,Call-Center,Edinburgh
+LGC-42009028-a-983510-J0,Eldridge Itzchaky,Negative,6,0,03/05/2025,14:38:06,3,5059,47262,Billing Question,Email,Edinburgh
+RRA-71287751-X-695491-Xx,Maud Menendes,Negative,,0,03/05/2025,14:45:16,3,21,1332,Billing Question,Call-Center,Edinburgh
+AKL-42476517-a-362058-cR,Cyrill Gatch,Negative,4,0,03/05/2025,14:47:59,3,16,475,Billing Question,Chatbot,Edinburgh
+BCB-85769181-Q-444889-Cx,Prudi Benford,Very Negative,,0,03/05/2025,14:52:10,3,2443,4231,Billing Question,Web,Edinburgh
+RRZ-86286190-r-481279-Zp,Merle Laird,Very Positive,,0,03/05/2025,14:52:32,3,11,545,Billing Question,Chatbot,Edinburgh
+ZOU-44960196-Y-620536-ub,Noelyn Albion,Neutral,,0,03/05/2025,14:57:59,3,5089,44954,Billing Question,Email,Edinburgh
+JFA-09130055-b-655526-ec,Waneta Carn,Negative,,0,03/05/2025,14:59:01,3,12,470,Billing Question,Chatbot,Edinburgh
+SHJ-63858159-K-471062-2z,Ernesto Gianni,Negative,,0,03/05/2025,15:02:22,3,11,510,Billing Question,Chatbot,Edinburgh
+HJX-60345068-b-764257-hd,Karry Bichener,Negative,,0,03/05/2025,15:09:00,3,15,433,Billing Question,Chatbot,Edinburgh
+IID-34034759-s-488470-w7,Kaja Lilly,Very Positive,,0,03/05/2025,15:10:09,3,14,493,Service Outage,Chatbot,Edinburgh
+KIS-76137600-w-815979-a7,Rich Klazenga,Neutral,,0,03/05/2025,15:10:50,3,15,1604,Billing Question,Call-Center,Edinburgh
+EUP-02788710-D-377378-ua,Kanya Ironside,Negative,,0,03/05/2025,15:17:37,3,20,1334,Billing Question,Call-Center,Edinburgh
+LWA-85219674-8-071558-67,Susanna Dorricott,Very Negative,4,0,03/05/2025,15:19:08,3,15,514,Service Outage,Chatbot,Edinburgh
+HIZ-07316731-2-335885-uL,Sisile Groom,Negative,,0,03/05/2025,15:19:35,3,19,1459,Billing Question,Call-Center,Edinburgh
+LCY-20803350-Q-487406-CP,Doralyn Remington,Neutral,,0,03/05/2025,15:20:58,3,16,513,Service Outage,Chatbot,Edinburgh
+BFX-05292378-L-502832-vi,Nancie Pestor,Negative,5,0,03/05/2025,15:28:39,3,17,1408,Billing Question,Call-Center,Edinburgh
+WAJ-52277681-n-609028-ma,Milly Anthoney,Positive,,0,03/05/2025,15:32:40,3,2471,20878,Billing Question,Web,Edinburgh
+IFF-07318650-V-586454-8Y,Cati Torricella,Neutral,,0,03/05/2025,15:41:19,3,2387,9933,Billing Question,Web,Edinburgh
+MTD-31572920-a-051046-1R,Jedd Bartolini,Very Positive,,0,03/05/2025,15:41:20,3,5601,43655,Billing Question,Email,Edinburgh
+JMO-94476580-I-311563-r2,Olag Valder,Neutral,,0,03/05/2025,15:45:40,3,14,525,Billing Question,Chatbot,Edinburgh
+RVX-56333116-L-889535-UO,Suzy Straun,Neutral,,0,03/05/2025,15:47:24,3,4636,47689,Billing Question,Email,Edinburgh
