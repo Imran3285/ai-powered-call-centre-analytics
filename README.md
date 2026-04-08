@@ -240,9 +240,10 @@ Because the evidence suggests that:
 
 ```text
 .
-├── AI-Assisted Call Centre Optimisation & Service Analytics.xlsx
-├── README.md
-└── images/                      
+├── AI-Assisted Call Centre Optimisation & Service Analytics.xlsx   # Main analysis workbook (cleaning, stats, hypothesis testing)
+├── Harbour Insurance Business Analytics Report.pdf                 # Final business report with insights & recommendations
+├── Harbour_sampledata.csv                                          # Raw dataset used for analysis
+└── README.md                                                       # Project documentation                    
 ```
 
 ---
@@ -267,18 +268,14 @@ Because the evidence suggests that:
    - service insights and findings
 4. Use the workbook to understand the evidence behind the proposed AI-assisted redesign.
 
-
 ---
 
 ## Limitations
 
-- The analysis is based on a **single monthly review period (May 2025)**.
-- Results should be interpreted as a **snapshot of performance**, not a long-term trend model.
-- Some conclusions are operationally strong but would benefit from additional validation using:
-  - multi-month data
-  - cost-benefit analysis
-  - customer preference segmentation
-  - AI implementation risk assessment
+- The analysis is based on a **single month of data (May 2025)** and may not reflect long-term trends.  
+- Results represent a **snapshot of operational performance**, rather than seasonal or annual variation.  
+- A **cost-benefit analysis** of AI adoption was not included, limiting financial evaluation of recommendations.  
+- Customer-level segmentation (e.g., demographics, policy type) was not available in the dataset.  
 
 ---
 
@@ -305,9 +302,6 @@ This project was completed as part of the **MANP001 Assignment Case Study (Autum
 ## Author
 
 **Muhammad Imran**  
-Data Scientist 
-GitHub: [@Imran3285](https://github.com/Imran3285)  
-Email: m.imran88222@gmail.com
 
 ---
 
