@@ -119,7 +119,7 @@ The simulation objective was to assess whether the future design could handle **
 
 ### Operational findings
 
-- **Negative sentiment dominates across all centres**, although the overall sentiment mix is broadly similar across locations.
+- **Negative sentiment dominates across centres**, although the overall sentiment mix is broadly similar across locations.
 - **Luton** appears to be the weakest-performing centre in terms of operational pressure and resolution time.
 - **Edinburgh** performs best relative to the other centres.
 - **Billing questions** are the most common reason for contact.
@@ -302,9 +302,3 @@ This project was completed as part of the **MANP001 Assignment Case Study (Autum
 ## Author
 
 **Muhammad Imran**  
-
----
-
-## License
-
-This repository is for **educational and portfolio purposes** unless otherwise stated.
